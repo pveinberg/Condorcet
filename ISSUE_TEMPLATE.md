@@ -1,9 +1,9 @@
-| Q                   | A
-| --------------------| ---------------
-| Type                | Bug / Support / Suggestion / Other
-| Concorcet version   | x.y.z
-| PHP version         | x.y.z
-| Installation Method | Composer / __CondorcetAutoload.php / Custom
+| Q                   | A|
+| --------------------| ---------------|
+| Type                | Bug / Support / Suggestion / Other|
+| Concorcet version   | x.y.z|
+| PHP version         | x.y.z |
+| Installation Method | Composer / __CondorcetAutoload.php / Custom|
 
 <!--
 - Please fill in this template according to your issue.
